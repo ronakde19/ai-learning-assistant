@@ -143,7 +143,7 @@ The official Microsoft Playwright MCP server, used for browser-based tasks and w
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ronakde19/ai-learning-assistant
 ```
 
 Move into the project folder:
