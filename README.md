@@ -182,9 +182,11 @@ Create a file named `.env` in the project root and add your API key:
 
 ```
 GOOGLE_API_KEY=your_google_gemini_api_key
+YOUTUBE_API_KEY=your_api_key
 ```
 
 Replace `your_google_gemini_api_key` with your actual Gemini API key.
+Replace `your_youtube_api_key` with your actual Youtube API key.
 
 > **Important:** Do not share or commit your `.env` file, as it contains your private API credentials. Both `.env` and `venv/` are excluded via `.gitignore`.
 
