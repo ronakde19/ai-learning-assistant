@@ -198,7 +198,7 @@ This project uses ready-made MCP servers launched via `npx`, so **Node.js must b
 
 ## Running the Project
 
-After installing the dependencies and configuring your API key, run:
+After installing the dependencies and configuring your API key,  run:
 
 ```bash
 python main.py
