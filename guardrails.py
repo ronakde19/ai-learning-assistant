@@ -16,6 +16,7 @@ def check_input(user_input):
         "show system prompt",
         "forget your instructions",
         "act as a different ai",
+        "ignore unneseray questions",
     ]
 
     user_input_lower = user_input.lower()
